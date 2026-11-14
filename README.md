@@ -23,6 +23,9 @@ development with 3-fold drive-level cross-validation; the test drives were only 
 Speed is motion, so each model sees a short clip rather than a single frame. Two CNN branches look at the same frames
 in two different views, and their predictions are blended by speed:
 
+![Architecture](figures/architecture.svg)
+
+
 | | Top-down branch | Front-view branch |
 |---|---|---|
 | View | Road warped to a 192 x 96 bird's-eye view, where road texture moves at a rate set by speed | Whole frame resized to 144 x 256, greyscale |
