@@ -1,0 +1,10 @@
+# data, caches and model weights are not part of the repository
+Comma_2k19_Driving_Dataset/
+processed_data/
+outputs/
+*.zip
+*.dat
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints/
