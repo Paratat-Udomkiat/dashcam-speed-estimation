@@ -113,4 +113,4 @@ Python 3.10, PyTorch 2.6 (CUDA 12.4).
 ## Acknowledgements
 
 Deep learning course project, 2026. Dataset: comma2k19 by comma.ai.
-Design discussions were held with Google Gemini as part of the course requirements, and Claude was used for code review and tooling.
+Design discussions were held with Google Gemini as part of the course requirements.
